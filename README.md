@@ -4,10 +4,8 @@ Gived a DTM raster layer calculate for every feature of a LineString layer the e
 
 ![Admin GUI](docs/images/admin.png)
 
-![Client GUI](docs/images/client.png) 
+![Client GUI](docs/images/client.png)
 
-###Requirements
-G3W-SUITE > v3.0
 
 Installation
 ------------
@@ -36,3 +34,10 @@ Apply migrations:
     ./manage.py migrate eleprofile
 ```
 
+**Compatibile with:**
+[![g3w-admin version](https://img.shields.io/badge/g3w--admin-3.5-1EB300.svg?style=flat)](https://github.com/g3w-suite/g3w-admin/tree/v.3.7.x)
+[![g3w-suite-docker version](https://img.shields.io/badge/g3w--suite--docker-3.5-1EB300.svg?style=flat)](https://github.com/g3w-suite/g3w-suite-docker/tree/v3.6.x)
+[![g3w-admin version](https://img.shields.io/badge/g3w--admin-3.6-1EB300.svg?style=flat)](https://github.com/g3w-suite/g3w-admin/tree/v.3.7.x)
+[![g3w-suite-docker version](https://img.shields.io/badge/g3w--suite--docker-3.6-1EB300.svg?style=flat)](https://github.com/g3w-suite/g3w-suite-docker/tree/v3.6.x)
+[![g3w-admin version](https://img.shields.io/badge/g3w--admin-3.7-1EB300.svg?style=flat)](https://github.com/g3w-suite/g3w-admin/tree/v.3.7.x)
+[![g3w-suite-docker version](https://img.shields.io/badge/g3w--suite--docker-3.7-1EB300.svg?style=flat)](https://github.com/g3w-suite/g3w-suite-docker/tree/v3.6.x)
